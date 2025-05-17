@@ -1,4 +1,3 @@
-# Data Analysis and Visualization Project - Phase 1
 
 ## Project Overview
 
