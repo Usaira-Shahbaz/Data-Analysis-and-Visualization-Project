@@ -8,11 +8,7 @@ The primary goal of Phase 1 is to merge multiple dataset files, clean the data, 
 
 ---
 
-## Team Members
 
-- **Zaheer Abbas**
-- **Usaira Shahbaz**
-- **Ahmad Mustafa**
 
 ---
 
