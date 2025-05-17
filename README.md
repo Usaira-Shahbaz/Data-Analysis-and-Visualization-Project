@@ -1,5 +1,9 @@
 # Data Analysis and Visualization Project - Phase 1
+## Project Overview
 
+Welcome to the **Data Analysis and Visualization Project - Phase 1** repository! This project is part of the coursework for **CS-352 Data Analysis and Visualization** at Namal University Mianwali. In this phase, we focus on preprocessing and preparing the **Brazilian E-Commerce Public Dataset by Olist** for sentiment analysis. The dataset is sourced from Kaggle and contains detailed information about orders, customers, products, payments, reviews, and sellers in the Brazilian e-commerce ecosystem.
+
+The primary goal of Phase 1 is to merge multiple dataset files, clean the data, reorder columns for clarity, and translate a subset of customer review comments from Portuguese to English to enable sentiment analysis in subsequent phases.
 
 
 ---
