@@ -7,7 +7,11 @@ Welcome to the **Data Analysis and Visualization Project - Phase 1** repository!
 The primary goal of Phase 1 is to merge multiple dataset files, clean the data, reorder columns for clarity, and translate a subset of customer review comments from Portuguese to English to enable sentiment analysis in subsequent phases.
 
 ---
+## Team Members
 
+- **Zaheer Abbas**
+- **Usaira Shahbaz**
+- **Ahmad Mustafa**
 
 
 ---
